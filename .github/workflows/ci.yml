@@ -1,0 +1,59 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: '0 0 * * 0'  # Каждое воскресенье в полночь
+
+jobs:
+  awesome-lint:
+    name: Awesome Lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Проверка кода
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Запуск awesome-lint
+        run: npx awesome-lint
+
+  link-check:
+    name: Проверка ссылок
+    runs-on: ubuntu-latest
+    steps:
+      - name: Проверка кода
+        uses: actions/checkout@v4
+
+      - name: Проверка мёртвых ссылок
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --verbose --no-progress '**/*.md'
+          fail: true
+
+      - name: Создать issue при ошибке
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: '🔗 Обнаружены битые ссылки',
+              body: 'Проверка ссылок обнаружила битые URL. Пожалуйста, проверьте логи workflow.'
+            })
+
+  markdown-lint:
+    name: Markdown Lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Проверка кода
+        uses: actions/checkout@v4
+
+      - name: Проверка форматирования Markdown
+        uses: DavidAnson/markdownlint-cli2-action@v16
+        with:
+          globs: '**/*.md'
