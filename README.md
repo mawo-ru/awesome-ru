@@ -85,20 +85,17 @@
 - **[Centrifugo](https://github.com/centrifugal/centrifugo)** ![](https://img.shields.io/github/stars/centrifugal/centrifugo?style=flat-square) - Масштабируемый сервер обмена сообщениями в реальном времени с WebSocket и SSE. Автор: Александр Емелин.
 - **[GIXY](https://github.com/yandex/gixy)** ![](https://img.shields.io/github/stars/yandex/gixy?style=flat-square) - Инструмент статического анализа конфигурационных файлов Nginx. Автор: Яндекс.
 - **[Yandex Tank](https://github.com/yandex/yandex-tank)** ![](https://img.shields.io/github/stars/yandex/yandex-tank?style=flat-square) - Инструмент нагрузочного тестирования с автоматическими отчётами. Автор: Яндекс.
-- **[Roadrunner](https://github.com/roadrunner-server/roadrunner)** ![](https://img.shields.io/github/stars/roadrunner-server/roadrunner?style=flat-square) - Высокопроизводительный PHP application сервер написанный на Go. Автор: Spiral Scout.
 - **[Manticore Search](https://github.com/manticoresoftware/manticoresearch)** ![](https://img.shields.io/github/stars/manticoresoftware/manticoresearch?style=flat-square) - Поисковый движок форк Sphinx Search. Автор: Manticore Software.
 - **[Odyssey](https://github.com/yandex/odyssey)** ![](https://img.shields.io/github/stars/yandex/odyssey?style=flat-square) - Масштабируемый многопоточный connection pooler для PostgreSQL. Автор: Яндекс.
-- **[imgproxy](https://github.com/imgproxy/imgproxy)** ![](https://img.shields.io/github/stars/imgproxy/imgproxy?style=flat-square) - Быстрый и безопасный standalone сервер для обработки изображений на лету. Автор: Evil Martians.
+
 
 ## Языки программирования
 
-- **[Kotlin](https://github.com/JetBrains/kotlin)** ![](https://img.shields.io/github/stars/JetBrains/kotlin?style=flat-square) - Современный статически типизированный язык программирования для JVM, Android и браузера. Автор: JetBrains.
 - **[V](https://github.com/vlang/v)** ![](https://img.shields.io/github/stars/vlang/v?style=flat-square) - Простой, быстрый и безопасный компилируемый язык программирования. Автор: Alexander Medvednikov.
 
 ## Дизайн и шрифты
 
 - **[Fira Code](https://github.com/tonsky/FiraCode)** ![](https://img.shields.io/github/stars/tonsky/FiraCode?style=flat-square) - Моноширинный шрифт с лигатурами для программирования. Автор: Никита Прокопов.
-- **[JetBrains Mono](https://github.com/JetBrains/JetBrains-Mono)** ![](https://img.shields.io/github/stars/JetBrains/JetBrains-Mono?style=flat-square) - Моноширинный шрифт специально разработанный для разработчиков. Автор: JetBrains.
 - **[Figma Linux](https://github.com/Figma-Linux/figma-linux)** ![](https://img.shields.io/github/stars/Figma-Linux/figma-linux?style=flat-square) - Неофициальный клиент Figma для Linux. Автор: Русскоязычное сообщество.
 - **[RHVoice](https://github.com/RHVoice/RHVoice)** ![](https://img.shields.io/github/stars/RHVoice/RHVoice?style=flat-square) - Бесплатный многоязычный синтезатор речи с открытым исходным кодом. Автор: Ольга Яковлева.
 
@@ -106,7 +103,6 @@
 
 - **[Practical DL](https://github.com/yandexdataschool/Practical_DL)** ![](https://img.shields.io/github/stars/yandexdataschool/Practical_DL?style=flat-square) - Курс по глубокому обучению от Школы анализа данных Яндекса. Автор: ШАД.
 - **[Practical RL](https://github.com/yandexdataschool/Practical_RL)** ![](https://img.shields.io/github/stars/yandexdataschool/Practical_RL?style=flat-square) - Курс по обучению с подкреплением от Школы анализа данных Яндекса. Автор: ШАД.
-- **[ML Course](https://github.com/yandexdataschool/mlcourse.ai)** ![](https://img.shields.io/github/stars/yandexdataschool/mlcourse.ai?style=flat-square) - Открытый курс по машинному обучению на русском и английском языках. Автор: ШАД.
 
 ---
 
