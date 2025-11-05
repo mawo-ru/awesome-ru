@@ -34,75 +34,75 @@
 
 ## Искусственный интеллект и машинное обучение
 
-- **[YaLM-100B](https://github.com/yandex/YaLM-100B)** ![](https://img.shields.io/github/stars/yandex/YaLM-100B?style=flat-square) - Языковая модель со 100 миллиардами параметров, одна из крупнейших открытых моделей в мире. Автор: Яндекс.
-- **[Kandinsky-2](https://github.com/ai-forever/Kandinsky-2)** ![](https://img.shields.io/github/stars/ai-forever/Kandinsky-2?style=flat-square) - Мультиязычная модель генерации изображений по текстовому описанию. Автор: Сбер AI.
-- **[Kandinsky-3](https://github.com/ai-forever/Kandinsky-3)** ![](https://img.shields.io/github/stars/ai-forever/Kandinsky-3?style=flat-square) - Улучшенная версия генератора изображений с повышенным качеством и реалистичностью. Автор: Сбер AI.
-- **[CatBoost](https://github.com/catboost/catboost)** ![](https://img.shields.io/github/stars/catboost/catboost?style=flat-square) - Библиотека градиентного бустинга с встроенной поддержкой категориальных признаков. Автор: Яндекс.
-- **[ru-gpts](https://github.com/ai-forever/ru-gpts)** ![](https://img.shields.io/github/stars/ai-forever/ru-gpts?style=flat-square) - Семейство моделей GPT-3 для русского языка разных размеров. Автор: Сбер AI.
-- **[ru-clip](https://github.com/ai-forever/ru-clip)** ![](https://img.shields.io/github/stars/ai-forever/ru-clip?style=flat-square) - Модель CLIP для русского языка, связывающая текст и изображения. Автор: Сбер AI.
-- **[LightAutoML](https://github.com/sberbank-ai-lab/LightAutoML)** ![](https://img.shields.io/github/stars/sberbank-ai-lab/LightAutoML?style=flat-square) - Фреймворк для автоматического создания моделей машинного обучения. Автор: Сбер AI Lab.
-- **[DeepPavlov](https://github.com/deeppavlov/DeepPavlov)** ![](https://img.shields.io/github/stars/deeppavlov/DeepPavlov?style=flat-square) - Библиотека для разработки диалоговых AI систем и чат-ботов. Автор: МФТИ.
-- **[Natasha](https://github.com/natasha/natasha)** ![](https://img.shields.io/github/stars/natasha/natasha?style=flat-square) - Библиотека для решения базовых задач NLP для русского языка (токенизация, морфология, NER). Автор: Александр Кукушкин.
+- [YaLM-100B](https://github.com/yandex/YaLM-100B) - Языковая модель со 100 миллиардами параметров, одна из крупнейших открытых моделей в мире. Автор: Яндекс.
+- [Kandinsky-2](https://github.com/ai-forever/Kandinsky-2) - Мультиязычная модель генерации изображений по текстовому описанию. Автор: Сбер AI.
+- [Kandinsky-3](https://github.com/ai-forever/Kandinsky-3) - Улучшенная версия генератора изображений с повышенным качеством и реалистичностью. Автор: Сбер AI.
+- [CatBoost](https://github.com/catboost/catboost) - Библиотека градиентного бустинга с встроенной поддержкой категориальных признаков. Автор: Яндекс.
+- [ru-gpts](https://github.com/ai-forever/ru-gpts) - Семейство моделей GPT-3 для русского языка разных размеров. Автор: Сбер AI.
+- [ru-clip](https://github.com/ai-forever/ru-clip) - Модель CLIP для русского языка, связывающая текст и изображения. Автор: Сбер AI.
+- [LightAutoML](https://github.com/sberbank-ai-lab/LightAutoML) - Фреймворк для автоматического создания моделей машинного обучения. Автор: Сбер AI Lab.
+- [DeepPavlov](https://github.com/deeppavlov/DeepPavlov) - Библиотека для разработки диалоговых AI систем и чат-ботов. Автор: МФТИ.
+- [Natasha](https://github.com/natasha/natasha) - Библиотека для решения базовых задач NLP для русского языка (токенизация, морфология, NER). Автор: Александр Кукушкин.
 
 ## Базы данных
 
-- **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** ![](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=flat-square) - Колоночная аналитическая СУБД для обработки больших данных в реальном времени. Автор: Яндекс.
-- **[Tarantool](https://github.com/tarantool/tarantool)** ![](https://img.shields.io/github/stars/tarantool/tarantool?style=flat-square) - База данных в памяти с поддержкой Lua для хранимых процедур и приложений. Автор: Mail.ru Group.
-- **[DataScript](https://github.com/tonsky/datascript)** ![](https://img.shields.io/github/stars/tonsky/datascript?style=flat-square) - Immutable база данных в памяти и Datalog query engine для Clojure и ClojureScript. Автор: Никита Прокопов.
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse) - Колоночная аналитическая СУБД для обработки больших данных в реальном времени. Автор: Яндекс.
+- [Tarantool](https://github.com/tarantool/tarantool) - База данных в памяти с поддержкой Lua для хранимых процедур и приложений. Автор: Mail.ru Group.
+- [DataScript](https://github.com/tonsky/datascript) - Immutable база данных в памяти и Datalog query engine для Clojure и ClojureScript. Автор: Никита Прокопов.
 
 ## Веб-разработка
 
-- **[Redux](https://github.com/reduxjs/redux)** ![](https://img.shields.io/github/stars/reduxjs/redux?style=flat-square) - Предсказуемый контейнер состояния для JavaScript приложений. Автор: Дэн Абрамов.
-- **[Framework7](https://github.com/framework7io/framework7)** ![](https://img.shields.io/github/stars/framework7io/framework7?style=flat-square) - Полнофункциональный HTML фреймворк для создания iOS и Android приложений. Автор: Владимир Харлампиди.
-- **[Highlight.js](https://github.com/highlightjs/highlight.js)** ![](https://img.shields.io/github/stars/highlightjs/highlight.js?style=flat-square) - Подсветка синтаксиса для веба с автоматическим определением языка. Автор: Иван Сагалаев.
-- **[Swiper](https://github.com/nolimits4web/swiper)** ![](https://img.shields.io/github/stars/nolimits4web/swiper?style=flat-square) - Современный мобильный тач-слайдер с аппаратным ускорением. Автор: Владимир Харлампиди.
-- **[React Hot Loader](https://github.com/gaearon/react-hot-loader)** ![](https://img.shields.io/github/stars/gaearon/react-hot-loader?style=flat-square) - Горячая перезагрузка модулей для React компонентов. Автор: Дэн Абрамов.
-- **[Browserslist](https://github.com/browserslist/browserslist)** ![](https://img.shields.io/github/stars/browserslist/browserslist?style=flat-square) - Конфигурация целевых браузеров для инструментов фронтенда. Автор: Андрей Ситник.
-- **[Size Limit](https://github.com/ai/size-limit)** ![](https://img.shields.io/github/stars/ai/size-limit?style=flat-square) - Инструмент для контроля размера JavaScript библиотек в CI. Автор: Андрей Ситник.
-- **[Effector](https://github.com/effector/effector)** ![](https://img.shields.io/github/stars/effector/effector?style=flat-square) - Библиотека управления состоянием для JavaScript приложений. Автор: Дмитрий Болдырев.
-- **[Feature Sliced Design](https://github.com/feature-sliced/documentation)** ![](https://img.shields.io/github/stars/feature-sliced/documentation?style=flat-square) - Архитектурная методология для фронтенд проектов. Автор: Русскоязычное сообщество.
-- **[Konva](https://github.com/konvajs/konva)** ![](https://img.shields.io/github/stars/konvajs/konva?style=flat-square) - HTML5 Canvas JavaScript фреймворк для интерактивной графики на десктопе и мобильных устройствах. Автор: Антон Лавренов.
+- [Redux](https://github.com/reduxjs/redux) - Предсказуемый контейнер состояния для JavaScript приложений. Автор: Дэн Абрамов.
+- [Framework7](https://github.com/framework7io/framework7) - Полнофункциональный HTML фреймворк для создания iOS и Android приложений. Автор: Владимир Харлампиди.
+- [Highlight.js](https://github.com/highlightjs/highlight.js) - Подсветка синтаксиса для веба с автоматическим определением языка. Автор: Иван Сагалаев.
+- [Swiper](https://github.com/nolimits4web/swiper) - Современный мобильный тач-слайдер с аппаратным ускорением. Автор: Владимир Харлампиди.
+- [React Hot Loader](https://github.com/gaearon/react-hot-loader) - Горячая перезагрузка модулей для React компонентов. Автор: Дэн Абрамов.
+- [Browserslist](https://github.com/browserslist/browserslist) - Конфигурация целевых браузеров для инструментов фронтенда. Автор: Андрей Ситник.
+- [Size Limit](https://github.com/ai/size-limit) - Инструмент для контроля размера JavaScript библиотек в CI. Автор: Андрей Ситник.
+- [Effector](https://github.com/effector/effector) - Библиотека управления состоянием для JavaScript приложений. Автор: Дмитрий Болдырев.
+- [Feature Sliced Design](https://github.com/feature-sliced/documentation) - Архитектурная методология для фронтенд проектов. Автор: Русскоязычное сообщество.
+- [Konva](https://github.com/konvajs/konva) - HTML5 Canvas JavaScript фреймворк для интерактивной графики на десктопе и мобильных устройствах. Автор: Антон Лавренов.
 
 ## Инструменты разработчика
 
-- **[Autoprefixer](https://github.com/postcss/autoprefixer)** ![](https://img.shields.io/github/stars/postcss/autoprefixer?style=flat-square) - Плагин PostCSS для автоматического добавления вендорных префиксов в CSS. Автор: Андрей Ситник.
-- **[PostCSS](https://github.com/postcss/postcss)** ![](https://img.shields.io/github/stars/postcss/postcss?style=flat-square) - Инструмент для трансформации CSS с помощью JavaScript плагинов. Автор: Андрей Ситник.
-- **[Core-js](https://github.com/zloirock/core-js)** ![](https://img.shields.io/github/stars/zloirock/core-js?style=flat-square) - Модульная стандартная библиотека для JavaScript с полифилами. Автор: Денис Пушкарев.
-- **[Emmet](https://github.com/emmetio/emmet)** ![](https://img.shields.io/github/stars/emmetio/emmet?style=flat-square) - Набор инструментов для ускорения написания HTML и CSS кода. Автор: Сергей Чикуёнок.
-- **[JSS](https://github.com/cssinjs/jss)** ![](https://img.shields.io/github/stars/cssinjs/jss?style=flat-square) - Библиотека для написания стилей CSS в JavaScript. Автор: Олег Исонен.
-- **[Nano ID](https://github.com/ai/nanoid)** ![](https://img.shields.io/github/stars/ai/nanoid?style=flat-square) - Генератор уникальных строковых идентификаторов размером всего 108 байт. Автор: Андрей Ситник.
-- **[Evil Icons](https://github.com/evil-icons/evil-icons)** ![](https://img.shields.io/github/stars/evil-icons/evil-icons?style=flat-square) - Набор SVG иконок с поддержкой Rails, Sinatra, React и других платформ. Автор: Александр Мадянкин.
-- **[Shower](https://github.com/shower/shower)** ![](https://img.shields.io/github/stars/shower/shower?style=flat-square) - HTML движок для создания презентаций и слайдов. Автор: Вадим Макеев.
-- **[CSSO](https://github.com/css/csso)** ![](https://img.shields.io/github/stars/css/csso?style=flat-square) - CSS минификатор с оптимизацией структуры. Автор: Роман Дворнов.
-- **[lint-staged](https://github.com/lint-staged/lint-staged)** ![](https://img.shields.io/github/stars/lint-staged/lint-staged?style=flat-square) - Запуск линтеров только на staged файлах в Git. Автор: Андрей Ситник.
-- **[AnyBar](https://github.com/tonsky/AnyBar)** ![](https://img.shields.io/github/stars/tonsky/AnyBar?style=flat-square) - Маленький индикатор для macOS menubar который можно контролировать из командной строки. Автор: Никита Прокопов.
-- **[FileAPI](https://github.com/mailru/FileAPI)** ![](https://img.shields.io/github/stars/mailru/FileAPI?style=flat-square) - Набор JavaScript инструментов для работы с файлами и загрузки изображений. Автор: Mail.ru.
-- **[easyjson](https://github.com/mailru/easyjson)** ![](https://img.shields.io/github/stars/mailru/easyjson?style=flat-square) - Быстрый JSON сериализатор и десериализатор для Go без рефлексии. Автор: Mail.ru.
+- [Autoprefixer](https://github.com/postcss/autoprefixer) - Плагин PostCSS для автоматического добавления вендорных префиксов в CSS. Автор: Андрей Ситник.
+- [PostCSS](https://github.com/postcss/postcss) - Инструмент для трансформации CSS с помощью JavaScript плагинов. Автор: Андрей Ситник.
+- [Core-js](https://github.com/zloirock/core-js) - Модульная стандартная библиотека для JavaScript с полифилами. Автор: Денис Пушкарев.
+- [Emmet](https://github.com/emmetio/emmet) - Набор инструментов для ускорения написания HTML и CSS кода. Автор: Сергей Чикуёнок.
+- [JSS](https://github.com/cssinjs/jss) - Библиотека для написания стилей CSS в JavaScript. Автор: Олег Исонен.
+- [Nano ID](https://github.com/ai/nanoid) - Генератор уникальных строковых идентификаторов размером всего 108 байт. Автор: Андрей Ситник.
+- [Evil Icons](https://github.com/evil-icons/evil-icons) - Набор SVG иконок с поддержкой Rails, Sinatra, React и других платформ. Автор: Александр Мадянкин.
+- [Shower](https://github.com/shower/shower) - HTML движок для создания презентаций и слайдов. Автор: Вадим Макеев.
+- [CSSO](https://github.com/css/csso) - CSS минификатор с оптимизацией структуры. Автор: Роман Дворнов.
+- [lint-staged](https://github.com/lint-staged/lint-staged) - Запуск линтеров только на staged файлах в Git. Автор: Андрей Ситник.
+- [AnyBar](https://github.com/tonsky/AnyBar) - Маленький индикатор для macOS menubar который можно контролировать из командной строки. Автор: Никита Прокопов.
+- [FileAPI](https://github.com/mailru/FileAPI) - Набор JavaScript инструментов для работы с файлами и загрузки изображений. Автор: Mail.ru.
+- [easyjson](https://github.com/mailru/easyjson) - Быстрый JSON сериализатор и десериализатор для Go без рефлексии. Автор: Mail.ru.
 
 ## Инфраструктура и DevOps
 
-- **[Nginx](https://github.com/nginx/nginx)** ![](https://img.shields.io/github/stars/nginx/nginx?style=flat-square) - Высокопроизводительный HTTP сервер, обратный прокси и почтовый прокси. Автор: Игорь Сысоев.
-- **[Centrifugo](https://github.com/centrifugal/centrifugo)** ![](https://img.shields.io/github/stars/centrifugal/centrifugo?style=flat-square) - Масштабируемый сервер обмена сообщениями в реальном времени с WebSocket и SSE. Автор: Александр Емелин.
-- **[GIXY](https://github.com/yandex/gixy)** ![](https://img.shields.io/github/stars/yandex/gixy?style=flat-square) - Инструмент статического анализа конфигурационных файлов Nginx. Автор: Яндекс.
-- **[Yandex Tank](https://github.com/yandex/yandex-tank)** ![](https://img.shields.io/github/stars/yandex/yandex-tank?style=flat-square) - Инструмент нагрузочного тестирования с автоматическими отчётами. Автор: Яндекс.
-- **[Manticore Search](https://github.com/manticoresoftware/manticoresearch)** ![](https://img.shields.io/github/stars/manticoresoftware/manticoresearch?style=flat-square) - Поисковый движок форк Sphinx Search. Автор: Manticore Software.
-- **[Odyssey](https://github.com/yandex/odyssey)** ![](https://img.shields.io/github/stars/yandex/odyssey?style=flat-square) - Масштабируемый многопоточный connection pooler для PostgreSQL. Автор: Яндекс.
+- [Nginx](https://github.com/nginx/nginx) - Высокопроизводительный HTTP сервер, обратный прокси и почтовый прокси. Автор: Игорь Сысоев.
+- [Centrifugo](https://github.com/centrifugal/centrifugo) - Масштабируемый сервер обмена сообщениями в реальном времени с WebSocket и SSE. Автор: Александр Емелин.
+- [GIXY](https://github.com/yandex/gixy) - Инструмент статического анализа конфигурационных файлов Nginx. Автор: Яндекс.
+- [Yandex Tank](https://github.com/yandex/yandex-tank) - Инструмент нагрузочного тестирования с автоматическими отчётами. Автор: Яндекс.
+- [Manticore Search](https://github.com/manticoresoftware/manticoresearch) - Поисковый движок форк Sphinx Search. Автор: Manticore Software.
+- [Odyssey](https://github.com/yandex/odyssey) - Масштабируемый многопоточный connection pooler для PostgreSQL. Автор: Яндекс.
 
 
 ## Языки программирования
 
-- **[V](https://github.com/vlang/v)** ![](https://img.shields.io/github/stars/vlang/v?style=flat-square) - Простой, быстрый и безопасный компилируемый язык программирования. Автор: Alexander Medvednikov.
+- [V](https://github.com/vlang/v) - Простой, быстрый и безопасный компилируемый язык программирования. Автор: Alexander Medvednikov.
 
 ## Дизайн и шрифты
 
-- **[Fira Code](https://github.com/tonsky/FiraCode)** ![](https://img.shields.io/github/stars/tonsky/FiraCode?style=flat-square) - Моноширинный шрифт с лигатурами для программирования. Автор: Никита Прокопов.
-- **[Figma Linux](https://github.com/Figma-Linux/figma-linux)** ![](https://img.shields.io/github/stars/Figma-Linux/figma-linux?style=flat-square) - Неофициальный клиент Figma для Linux. Автор: Русскоязычное сообщество.
-- **[RHVoice](https://github.com/RHVoice/RHVoice)** ![](https://img.shields.io/github/stars/RHVoice/RHVoice?style=flat-square) - Бесплатный многоязычный синтезатор речи с открытым исходным кодом. Автор: Ольга Яковлева.
+- [Fira Code](https://github.com/tonsky/FiraCode) - Моноширинный шрифт с лигатурами для программирования. Автор: Никита Прокопов.
+- [Figma Linux](https://github.com/Figma-Linux/figma-linux) - Неофициальный клиент Figma для Linux. Автор: Русскоязычное сообщество.
+- [RHVoice](https://github.com/RHVoice/RHVoice) - Бесплатный многоязычный синтезатор речи с открытым исходным кодом. Автор: Ольга Яковлева.
 
 ## Образование
 
-- **[Practical DL](https://github.com/yandexdataschool/Practical_DL)** ![](https://img.shields.io/github/stars/yandexdataschool/Practical_DL?style=flat-square) - Курс по глубокому обучению от Школы анализа данных Яндекса. Автор: ШАД.
-- **[Practical RL](https://github.com/yandexdataschool/Practical_RL)** ![](https://img.shields.io/github/stars/yandexdataschool/Practical_RL?style=flat-square) - Курс по обучению с подкреплением от Школы анализа данных Яндекса. Автор: ШАД.
+- [Practical DL](https://github.com/yandexdataschool/Practical_DL) - Курс по глубокому обучению от Школы анализа данных Яндекса. Автор: ШАД.
+- [Practical RL](https://github.com/yandexdataschool/Practical_RL) - Курс по обучению с подкреплением от Школы анализа данных Яндекса. Автор: ШАД.
 
 ---
 
