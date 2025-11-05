@@ -81,7 +81,7 @@ git push origin add-project-name
 
 Откройте Pull Request на GitHub с описанием:
 
-```
+```markdown
 ## Что добавлено
 
 - [Название проекта](ссылка) в категорию [Категория]
