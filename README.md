@@ -2,8 +2,6 @@
 
 > Кураторский список живых и интересных проектов с открытым исходным кодом от русскоязычных разработчиков
 
-*Обновлённая версия [awesome-made-by-russians](https://github.com/gaearon/awesome-made-by-russians) (последнее обновление: 2020)*
-
 ## 📋 Содержание
 
 - [Искусственный интеллект и машинное обучение](#искусственный-интеллект-и-машинное-обучение)
@@ -13,7 +11,6 @@
 - [Инфраструктура и DevOps](#инфраструктура-и-devops)
 - [Языки программирования](#языки-программирования)
 - [Дизайн и шрифты](#дизайн-и-шрифты)
-- [Безопасность](#безопасность)
 - [Образование](#образование)
 
 ---
@@ -44,15 +41,14 @@
 - **[ru-gpts](https://github.com/ai-forever/ru-gpts)** ![](https://img.shields.io/github/stars/ai-forever/ru-gpts?style=flat-square) - Семейство моделей GPT-3 для русского языка разных размеров. Автор: Сбер AI.
 - **[ru-clip](https://github.com/ai-forever/ru-clip)** ![](https://img.shields.io/github/stars/ai-forever/ru-clip?style=flat-square) - Модель CLIP для русского языка, связывающая текст и изображения. Автор: Сбер AI.
 - **[LightAutoML](https://github.com/sberbank-ai-lab/LightAutoML)** ![](https://img.shields.io/github/stars/sberbank-ai-lab/LightAutoML?style=flat-square) - Фреймворк для автоматического создания моделей машинного обучения. Автор: Сбер AI Lab.
-- **[Open CV](https://github.com/opencv/opencv)** ![](https://img.shields.io/github/stars/opencv/opencv?style=flat-square) - Библиотека компьютерного зрения и машинного обучения с открытым исходным кодом. Автор: Intel (основатель - Гэри Брэдски, работал в России).
 - **[DeepPavlov](https://github.com/deeppavlov/DeepPavlov)** ![](https://img.shields.io/github/stars/deeppavlov/DeepPavlov?style=flat-square) - Библиотека для разработки диалоговых AI систем и чат-ботов. Автор: МФТИ.
-- **[NNI](https://github.com/microsoft/nni)** ![](https://img.shields.io/github/stars/microsoft/nni?style=flat-square) - Инструмент для автоматизации подбора гиперпараметров и архитектуры нейронных сетей. Автор: Microsoft (вклад русских разработчиков).
+- **[Natasha](https://github.com/natasha/natasha)** ![](https://img.shields.io/github/stars/natasha/natasha?style=flat-square) - Библиотека для решения базовых задач NLP для русского языка (токенизация, морфология, NER). Автор: Александр Кукушкин.
 
 ## Базы данных
 
 - **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** ![](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=flat-square) - Колоночная аналитическая СУБД для обработки больших данных в реальном времени. Автор: Яндекс.
 - **[Tarantool](https://github.com/tarantool/tarantool)** ![](https://img.shields.io/github/stars/tarantool/tarantool?style=flat-square) - База данных в памяти с поддержкой Lua для хранимых процедур и приложений. Автор: Mail.ru Group.
-- **[Dragonfly](https://github.com/dragonflydb/dragonfly)** ![](https://img.shields.io/github/stars/dragonflydb/dragonfly?style=flat-square) - Современная замена Redis и Memcached с вертикальным масштабированием. Автор: Роман Гершман.
+- **[DataScript](https://github.com/tonsky/datascript)** ![](https://img.shields.io/github/stars/tonsky/datascript?style=flat-square) - Immutable база данных в памяти и Datalog query engine для Clojure и ClojureScript. Автор: Никита Прокопов.
 
 ## Веб-разработка
 
@@ -65,7 +61,7 @@
 - **[Size Limit](https://github.com/ai/size-limit)** ![](https://img.shields.io/github/stars/ai/size-limit?style=flat-square) - Инструмент для контроля размера JavaScript библиотек в CI. Автор: Андрей Ситник.
 - **[Effector](https://github.com/effector/effector)** ![](https://img.shields.io/github/stars/effector/effector?style=flat-square) - Библиотека управления состоянием для JavaScript приложений. Автор: Дмитрий Болдырев.
 - **[Feature Sliced Design](https://github.com/feature-sliced/documentation)** ![](https://img.shields.io/github/stars/feature-sliced/documentation?style=flat-square) - Архитектурная методология для фронтенд проектов. Автор: Русскоязычное сообщество.
-- **[ReScript](https://github.com/rescript-lang/rescript-compiler)** ![](https://img.shields.io/github/stars/rescript-lang/rescript-compiler?style=flat-square) - Язык программирования который компилируется в JavaScript (ранее BuckleScript). Автор: Hongbo Zhang (вклад русских разработчиков).
+- **[Konva](https://github.com/konvajs/konva)** ![](https://img.shields.io/github/stars/konvajs/konva?style=flat-square) - HTML5 Canvas JavaScript фреймворк для интерактивной графики на десктопе и мобильных устройствах. Автор: Антон Лавренов.
 
 ## Инструменты разработчика
 
@@ -78,9 +74,10 @@
 - **[Evil Icons](https://github.com/evil-icons/evil-icons)** ![](https://img.shields.io/github/stars/evil-icons/evil-icons?style=flat-square) - Набор SVG иконок с поддержкой Rails, Sinatra, React и других платформ. Автор: Александр Мадянкин.
 - **[Shower](https://github.com/shower/shower)** ![](https://img.shields.io/github/stars/shower/shower?style=flat-square) - HTML движок для создания презентаций и слайдов. Автор: Вадим Макеев.
 - **[CSSO](https://github.com/css/csso)** ![](https://img.shields.io/github/stars/css/csso?style=flat-square) - CSS минификатор с оптимизацией структуры. Автор: Роман Дворнов.
-- **[Stylelint](https://github.com/stylelint/stylelint)** ![](https://img.shields.io/github/stars/stylelint/stylelint?style=flat-square) - Линтер для CSS и CSS-подобных синтаксисов. Автор: Международная команда (вклад русских разработчиков).
 - **[lint-staged](https://github.com/lint-staged/lint-staged)** ![](https://img.shields.io/github/stars/lint-staged/lint-staged?style=flat-square) - Запуск линтеров только на staged файлах в Git. Автор: Андрей Ситник.
-- **[Prettier](https://github.com/prettier/prettier)** ![](https://img.shields.io/github/stars/prettier/prettier?style=flat-square) - Форматтер кода с поддержкой множества языков. Автор: Международная команда (вклад Christopher Chedeau).
+- **[AnyBar](https://github.com/tonsky/AnyBar)** ![](https://img.shields.io/github/stars/tonsky/AnyBar?style=flat-square) - Маленький индикатор для macOS menubar который можно контролировать из командной строки. Автор: Никита Прокопов.
+- **[FileAPI](https://github.com/mailru/FileAPI)** ![](https://img.shields.io/github/stars/mailru/FileAPI?style=flat-square) - Набор JavaScript инструментов для работы с файлами и загрузки изображений. Автор: Mail.ru.
+- **[easyjson](https://github.com/mailru/easyjson)** ![](https://img.shields.io/github/stars/mailru/easyjson?style=flat-square) - Быстрый JSON сериализатор и десериализатор для Go без рефлексии. Автор: Mail.ru.
 
 ## Инфраструктура и DevOps
 
@@ -89,13 +86,13 @@
 - **[GIXY](https://github.com/yandex/gixy)** ![](https://img.shields.io/github/stars/yandex/gixy?style=flat-square) - Инструмент статического анализа конфигурационных файлов Nginx. Автор: Яндекс.
 - **[Yandex Tank](https://github.com/yandex/yandex-tank)** ![](https://img.shields.io/github/stars/yandex/yandex-tank?style=flat-square) - Инструмент нагрузочного тестирования с автоматическими отчётами. Автор: Яндекс.
 - **[Roadrunner](https://github.com/roadrunner-server/roadrunner)** ![](https://img.shields.io/github/stars/roadrunner-server/roadrunner?style=flat-square) - Высокопроизводительный PHP application сервер написанный на Go. Автор: Spiral Scout.
-- **[GoLand](https://github.com/golang/go)** - IDE для разработки на Go от JetBrains (примечание: сам Go создан не русскими, но JetBrains из России).
 - **[Manticore Search](https://github.com/manticoresoftware/manticoresearch)** ![](https://img.shields.io/github/stars/manticoresoftware/manticoresearch?style=flat-square) - Поисковый движок форк Sphinx Search. Автор: Manticore Software.
+- **[Odyssey](https://github.com/yandex/odyssey)** ![](https://img.shields.io/github/stars/yandex/odyssey?style=flat-square) - Масштабируемый многопоточный connection pooler для PostgreSQL. Автор: Яндекс.
+- **[imgproxy](https://github.com/imgproxy/imgproxy)** ![](https://img.shields.io/github/stars/imgproxy/imgproxy?style=flat-square) - Быстрый и безопасный standalone сервер для обработки изображений на лету. Автор: Evil Martians.
 
 ## Языки программирования
 
 - **[Kotlin](https://github.com/JetBrains/kotlin)** ![](https://img.shields.io/github/stars/JetBrains/kotlin?style=flat-square) - Современный статически типизированный язык программирования для JVM, Android и браузера. Автор: JetBrains.
-- **[Red](https://github.com/red/red)** ![](https://img.shields.io/github/stars/red/red?style=flat-square) - Язык программирования нового поколения вдохновлённый REBOL. Автор: Nenad Rakocevic (живет в России).
 - **[V](https://github.com/vlang/v)** ![](https://img.shields.io/github/stars/vlang/v?style=flat-square) - Простой, быстрый и безопасный компилируемый язык программирования. Автор: Alexander Medvednikov.
 
 ## Дизайн и шрифты
@@ -103,13 +100,7 @@
 - **[Fira Code](https://github.com/tonsky/FiraCode)** ![](https://img.shields.io/github/stars/tonsky/FiraCode?style=flat-square) - Моноширинный шрифт с лигатурами для программирования. Автор: Никита Прокопов.
 - **[JetBrains Mono](https://github.com/JetBrains/JetBrains-Mono)** ![](https://img.shields.io/github/stars/JetBrains/JetBrains-Mono?style=flat-square) - Моноширинный шрифт специально разработанный для разработчиков. Автор: JetBrains.
 - **[Figma Linux](https://github.com/Figma-Linux/figma-linux)** ![](https://img.shields.io/github/stars/Figma-Linux/figma-linux?style=flat-square) - Неофициальный клиент Figma для Linux. Автор: Русскоязычное сообщество.
-- **[IconPark](https://github.com/bytedance/IconPark)** ![](https://img.shields.io/github/stars/bytedance/IconPark?style=flat-square) - Библиотека высококачественных SVG иконок с возможностью кастомизации. Автор: ByteDance (TikTok).
-
-## Безопасность
-
-- **[Lynis](https://github.com/CISOfy/lynis)** ![](https://img.shields.io/github/stars/CISOfy/lynis?style=flat-square) - Инструмент аудита безопасности для Unix и Linux систем. Автор: Михаэль Болен (CISOfy).
-- **[Wazuh](https://github.com/wazuh/wazuh)** ![](https://img.shields.io/github/stars/wazuh/wazuh?style=flat-square) - Платформа для мониторинга безопасности и обнаружения угроз. Автор: Wazuh Inc.
-- **[ModSecurity](https://github.com/SpiderLabs/ModSecurity)** ![](https://img.shields.io/github/stars/SpiderLabs/ModSecurity?style=flat-square) - Web Application Firewall движок с открытым исходным кодом. Автор: Trustwave SpiderLabs (вклад русских разработчиков).
+- **[RHVoice](https://github.com/RHVoice/RHVoice)** ![](https://img.shields.io/github/stars/RHVoice/RHVoice?style=flat-square) - Бесплатный многоязычный синтезатор речи с открытым исходным кодом. Автор: Ольга Яковлева.
 
 ## Образование
 
