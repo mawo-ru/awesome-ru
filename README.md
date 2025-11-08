@@ -85,6 +85,7 @@
 - [AnyBar](https://github.com/tonsky/AnyBar) - Маленький индикатор для macOS menubar который можно контролировать из командной строки. Автор: Никита Прокопов.
 - [FileAPI](https://github.com/mailru/FileAPI) - Набор JavaScript инструментов для работы с файлами и загрузки изображений. Автор: Mail.ru.
 - [easyjson](https://github.com/mailru/easyjson) - Быстрый JSON сериализатор и десериализатор для Go без рефлексии. Автор: Mail.ru.
+- [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Библиотека для бенчмаркинга .NET приложений с автоматическими отчётами и поддержкой различных платформ. Автор: Андрей Акиньшин.
 
 ## Инфраструктура и DevOps
 
@@ -94,6 +95,7 @@
 - [Yandex Tank](https://github.com/yandex/yandex-tank) - Инструмент нагрузочного тестирования с автоматическими отчётами. Автор: Яндекс.
 - [Manticore Search](https://github.com/manticoresoftware/manticoresearch) - Поисковый движок форк Sphinx Search. Автор: Manticore Software.
 - [Odyssey](https://github.com/yandex/odyssey) - Масштабируемый многопоточный connection pooler для PostgreSQL. Автор: Яндекс.
+- [git-secret](https://github.com/sobolevn/git-secret) - Bash-утилита для безопасного хранения приватных данных в git-репозитории с помощью GPG шифрования. Автор: Никита Соболев.
 
 ## Языки программирования
 
